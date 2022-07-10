@@ -2,4 +2,4 @@
 
 ---
 
-Credit to © Alberta Education, $-2021$.
+Credit to © Alberta Education, $\sim 2021$.

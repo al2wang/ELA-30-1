@@ -10,8 +10,6 @@ Note that some of reading anthologies were assigned for the one-month-duration E
 
 Complied by Alex Wang, all rights reserved, Aug 2022.
 
----
-
 ## Predetermined Course Outline
 
 ### Purpose/Goals/Objectives

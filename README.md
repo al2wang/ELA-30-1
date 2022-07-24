@@ -1,4 +1,4 @@
-# ELA-30-1
+# ELA 30-1 SUMMER SESSIONS
 
 ## Intro
 

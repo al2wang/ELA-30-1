@@ -27,8 +27,8 @@ more information can be found here: http://www.education.gov.ab.ca
 
 ### Scope and Sequence
 As per the Text Study Requirements set out by the Province of Alberta, units of study will include:
-1. Novel: Rita Hayworth and Shawshank Redemption by Stephen King
-2. Film/Modern Play/Shakespeare: “Othello” by William Shakespeare
+1. Novel: *Rita Hayworth and Shawshank Redemption* by Stephen King
+2. Film/Modern Play/Shakespeare: *Othello* by William Shakespeare
 3. Short story: TBD
 4. Poetry: TBD
 5. Non-fiction: TBD

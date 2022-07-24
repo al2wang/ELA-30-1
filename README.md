@@ -39,5 +39,5 @@ As per the Text Creation Requirements set out by the Province of Alberta, studen
 
 ### Evaluation/Grading Policies
 For 30-level courses, grading will be done according to two categories:
-1. Minor Assessments — $30\% $
-2. Major Assessments — $70\% $
+1. Minor Assessments — $30 \text{percent}$
+2. Major Assessments — $70 \text{percent}$
